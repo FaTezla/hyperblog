@@ -1,6 +1,15 @@
 # hyperblog
 Un blog para practiac Git y Github
+            
+###TeX(LaTeX)
+   
 $$E=mc^2$$
+
+Inline $$E=mc^2$$ Inline，Inline $$E=mc^2$$ Inline。
+
+$$\(\sqrt{3x-1}+(1+x)^2\)$$
+                    
+
 > El curso de Git y Github de Platzi es lo que me hacía falta para triplicar mi salario y lanzarme a la industria del tejido de lana sintética con Machine Learning
 > - niñita
 
